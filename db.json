@@ -2,195 +2,187 @@
   "products": [
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag1",
-      "name": "Mario Kart 8 Deluxe",
+      "name": "Cargador USB para coche",
       "category": "Automóvil",
-      "price": "10000",
-      "url": "./img/imagenesNuevas/automovil/AIXXCO-Cargador-USB-de-3-puertos-para-coche-dispositivo-de-carga-r-pida-3-0-para.jpg_Q90.jpg_.webp",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "price": "3",
+      "url": ".img/imagenesNuevas/automovil/AIXXCO-Cargador-USB-de-3-puertos-para-coche-dispositivo-de-carga-r-pida-3-0-para.jpg_Q90.jpg_.webp",
+      "description": "AIXXCO-Cargador USB de 3 puertos para coche, dispositivo de carga rápida 3.0 para Samsung, Huawei, Xiaomi, iPhone, QC, se conecta al mechero",
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag2",
-      "name": "The Legend of Zelda",
+      "name": "Almohadilla protectora",
       "category": "Automóvil",
-      "price": "10000",
-      "url": "./img/game-2.jpg",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "price": "40",
+      "url": ".img/imagenesNuevas/automovil/Almohadilla-protectora-para-puerta-trasera-de-Tesla-modelo-Y-2022-accesorios-de-modificaci-n-Interior-de.jpg_Q90.jpg",
+      "description": "Almohadilla protectora para puerta trasera de Tesla modelo Y 2022, accesorios de modificación Interior de coche, TPE, impermeable, para maletero trasero de coche"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag3",
-      "name": "Pokémon: Let’s Go",
+      "name": "Dongle inalámbrico",
       "category": "Automóvil",
-      "price": "10000",
-      "url": "./img/game-3.jpg",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "price": "38",
+      "url": ".img/imagenesNuevas/automovil/Dongle-inal-mbrico-CarPlay-con-cable-Apple-Carplay-a-Carplay-inal-mbrico-para-Mazda-Audi-Suzuki.jpg_Q90.jpg",
+      "description": "Dongle inalámbrico CarPlay con cable Apple Carplay a Carplay inalámbrico para Mazda Audi Suzuki Volvo Toyota Ford Jeep Benz accesorios de coche"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag4",
-      "name": "Super Smash Bros.",
+      "name": "Bombilla Halógena",
       "category": "Automóvil",
-      "price": "10000",
-      "url": "./img/game-4.jpg",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "price": "5",
+      "url": ".img/imagenesNuevas/automovil/Bombilla-hal-gena-H11-de-2-piezas-para-coche-Luz-antiniebla-de-cristal-de-cuarzo-12v.jpg_Q90.jpg",
+      "description": "Bombilla halógena para faros delanteros de coche, luz antiniebla, DRL, accesorios para coche, 2 piezas, 9012 HIR2, PX22D, 55W, 12V, blanco cálido"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag5",
-      "name": "Mario Odyssey",
+      "name": "Probador de Relé",
       "category": "Automóvil",
-      "price": "10000",
-      "url": "./img/game-5.jpg",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "price": "5",
+      "url": ".img/imagenesNuevas/automovil/Probador-de-rel-Universal-para-coche-Analizador-de-bater-a-de-coche-herramientas-de-diagn-stico.jpg_Q90.jpg",
+      "description": "Probador de relé Universal para coche, Analizador de batería de coche, herramientas de diagnóstico, Detector electrónico de relé de 12V, accesorios para automóviles"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag6",
-      "name": "Luigi’s Mansion™ 3",
+      "name": "Bombilla halógena H11",
       "category": "Automóvil",
-      "price": "10000",
-      "url": "./img/game-6.jpg",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "price": "3",
+      "url": ".img/imagenesNuevas/automovil/Bombilla-hal-gena-H11-de-2-piezas-para-coche-Luz-antiniebla-de-cristal-de-cuarzo-12v.jpg_Q90.jpg",
+      "description": "Bombilla halógena H11 de 2 piezas para coche, Luz antiniebla de cristal de cuarzo, 12v, 55w, 4300K, lámpara halógena, accesorios de luces antiniebla blancas"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag7",
-      "name": "Donkey Kong",
+      "name": "Barra de luz inteligente",
       "category": "Automóvil",
-      "price": "10000",
-      "url": "./img/game-7.jpg",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "price": "21",
+      "url": ".img/imagenesNuevas/automovil/Barra-de-luz-inteligente-para-maletero-de-coche-tira-LED-de-iluminaci-n-modificada-para-Tesla.jpg_Q90.jpg",
+      "description": "Barra de luz inteligente para maletero de coche, tira LED de iluminación modificada para Tesla Model 3 Y S X, accesorio decorativo Interior impermeable"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag8",
-      "name": "Pokémon Espada",
+      "name": "Extractor de abolladuras",
       "category": "Automóvil",
-      "price": "10000",
-      "url": "./img/game-8.jpg",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "price": "5",
+      "url": ".img/imagenesNuevas/automovil/Extractor-de-reparaci-n-de-abolladuras-de-coche-herramientas-de-extracci-n-de-abolladuras-de-pintura.jpg_Q90.jpg",
+      "description": "Extractor de reparación de abolladuras de coche, herramientas de extracción de abolladuras de pintura Manual de succión fuerte, accesorios de coche, entrega rápida"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac1",
-      "name": "Nintendo Switch - Gris",
-      "category": "Hogar",
+      "name": "Soporte de teléfono Universal",
+      "category": "Automóvil",
       "price": "15999",
-      "url": "./img/consolas-1.png",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "url": ".img/imagenesNuevas/automovil/Soporte-de-tel-fono-Universal-retr-ctil-para-coche-accesorio-giratorio-de-360-con-ventosa-GPS.jpg_Q90.jpg",
+      "description": "Soporte de teléfono Universal retráctil para coche, accesorio giratorio de 360 °, con ventosa, GPS, novedad"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac2",
-      "name": "Nintendo Switch - Neón",
-      "category": "Hogar",
-      "price": "15999",
-      "url": "./img/consolas-2.png",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "name": "Charms de plata",
+      "category": "Joyería",
+      "price": "2",
+      "url": ".img/imagenesNuevas/joyeria/Charms-de-plata-de-ley-925-para-mujer-pulsera-y-brazalete-pandora-Original-joyer-a-de.jpg_Q90.jpg",
+      "description": "Charms de plata de ley 925 para mujer, pulsera y brazalete pandora Original, joyería de moda de cumpleaños, regalo de lobo"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac3",
-      "name": "Nintendo Switch - Smash Bros",
-      "category": "Hogar",
-      "price": "15999",
-      "url": "./img/consolas-3.png",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "name": "Pulsera de cuero",
+      "category": "Joyería",
+      "price": "7",
+      "url": ".img/imagenesNuevas/joyeria/Pulsera-de-cuero-con-cabeza-de-Lobo-para-hombre-brazalete-con-ancla-Calavera-Cruz-color-negro.jpg_Q90.jpg",
+      "description": "Pulsera de cuero con cabeza de Lobo para hombre, brazalete con ancla, Calavera, Cruz, color negro, regalo de joyería, PD1020"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac4",
-      "name": "Nintendo Switch - Pokémon",
-      "category": "Hogar",
-      "price": "15999",
-      "url": "./img/consolas-4.png",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "name": "Tocona-Pulseras Bohemias",
+      "category": "Joyería",
+      "price": "2",
+      "url": ".img/imagenesNuevas/joyeria/Tocona-Pulseras-Bohemias-de-luna-de-amor-para-mujer-abalorios-cuentas-estrellas-doradas-cristales-transparentes-letras.jp",
+      "description": "Tocona-Pulseras Bohemias de luna de amor para mujer, abalorios, cuentas, estrellas doradas, cristales transparentes, letras, cuerda, accesorios de joyería, 6523"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac5",
-      "name": "Nintendo Switch OLED",
-      "category": "Hogar",
-      "price": "15999",
-      "url": "./img/consolas-5.png",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "name": "Pulseras de cuero",
+      "category": "Joyería",
+      "price": "8",
+      "url": ".img/imagenesNuevas/joyeria/Pulseras-de-cuero-Vintage-para-hombre-y-mujer-brazaletes-de-colores-hechos-a-mano-estilo-Retro.jpg_Q90.jpg",
+      "description": "Pulseras de cuero Vintage para hombre y mujer, brazaletes de colores hechos a mano, estilo Retro, mezcla de estilos, regalos de fiesta ajustables, 20 unids/lote"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac6",
-      "name": "Nintendo Switch OLED",
-      "category": "Hogar",
-      "price": "15999",
-      "url": "./img/consolas-6.png",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "name": "Pulsera de estilo bohemio",
+      "category": "Joyería",
+      "price": "3",
+      "url": ".img/imagenesNuevas/joyeria/Pulsera-de-estilo-bohemio-para-mujer-brazalete-de-cadena-de-hojas-de-diamantes-de-imitaci-n.jpg_Q90.jpg_.webp",
+      "description": "Pulsera de estilo bohemio para mujer, brazalete de cadena de hojas de diamantes de imitación, joyería trenzada de oro de lujo para boda, regalo de Navidad"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac7",
-      "name": "Nintendo Switch Lite - Pokémon",
-      "category": "Hogar",
-      "price": "15999",
-      "url": "./img/consolas-7.png",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "name": "Pulsera de trébol",
+      "category": "Joyería",
+      "price": "2",
+      "url": ".img/imagenesNuevas/joyeria/Pulsera-de-tr-bol-con-diamantes-de-imitaci-n-para-mujer-y-ni-a-pulsera-con.jpg_Q90.jpg",
+      "description": "Pulsera de trébol con diamantes de imitación para mujer y niña, pulsera con diamantes de imitación, accesorios de joyería, venta al por mayor, nueva moda"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac8",
-      "name": "Nintendo Switch Lite - Pokémon",
-      "category": "Hogar",
-      "price": "15999",
-      "url": "./img/consolas-8.png",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "name": "Pulseras de doble círculo",
+      "category": "Joyería",
+      "price": "2",
+      "url": ".img/imagenesNuevas/joyeria/Customizable-Engraving-Black-Multilayer-Leather-Bracelet-Bangle-Men-Jewelry-Casual-Male-Party-Wrist-Band-Boyfr.webp",
+      "description": "2 unids/set/set de pulseras de doble círculo de oro rosa mate, brazaletes"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa1",
-      "name": "Mario Bros.",
-      "category": "Joyería",
-      "price": "15999",
-      "url": "./img/amiibo-1.png",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "name": "Humidificador de aire",
+      "category": "Hogar",
+      "price": "28",
+      "url": "img/imagenesNuevas/hogar y decoracion/Humidificador-de-aire-con-USB-para-el-hogar-difusor-de-Aroma-de-aceite-esencial-llama-de.jpg_Q90.jpg",
+      "description": "Humidificador de aire con USB para el hogar, difusor de Aroma de aceite esencial, llama de Medusa, 320ML"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa2",
-      "name": "Peach",
-      "category": "Joyería",
-      "price": "15999",
-      "url": "./img/amiibo-2.png",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "name": "Funda Cojines",
+      "category": "Hogar",
+      "price": "3",
+      "url": ".img/imagenesNuevas/hogar y decoracion/Funda-Cojines-Funda-de-Almohada-Boho-Sofa-C-modo-y-Suave-Decorativo-Duradero-Decoraci-n-Moderno.jpg_Q90.jpg",
+      "description": "Funda Cojines Funda de Almohada Boho Sofa Cómodo y Suave Decorativo Duradero Decoración Moderno Decorativo para Habitacion Dormitorio Silla Salon Cama"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa3",
-      "name": "Browser",
-      "category": "Joyería",
-      "price": "15999",
-      "url": "./img/amiibo-3.png",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "name": "Alfombrillas de cocina",
+      "category": "Hogar",
+      "price": "6",
+      "url": ".img/imagenesNuevas/hogar y decoracion/Alfombrillas-de-cocina-a-prueba-de-aceite-para-el-suelo-antideslizantes-para-el-hogar-el-ba.jpg_Q90.jpg",
+      "description": "Alfombrillas de cocina a prueba de aceite para el suelo, antideslizantes, para el hogar, el baño, la sala de estar, 2 juegos alfombra cocina"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa4",
-      "name": "Pikachu",
-      "category": "Joyería",
-      "price": "15999",
-      "url": "./img/amiibo-4.png",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "name": "Póster de Peaky Blinders",
+      "category": "Hogar",
+      "price": "2",
+      "url": ".img/imagenesNuevas/hogar y decoracion/P-ster-de-Peaky-Blinders-del-Drama-del-crimen-brit-nico-pintura-Canva-de-alta-calidad.jpg_Q90.jpg",
+      "description": "Póster de Peaky Blinders del Drama del crimen británico, pintura Canva de alta calidad, decoración del hogar, arte de pared, carteles, bar, café, dormitorio"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa5",
-      "name": "Zelda",
-      "category": "Joyería",
-      "price": "15999",
-      "url": "./img/amiibo-5.png",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "name": "Foto personalizada",
+      "category": "Hogar",
+      "price": "5",
+      "url": ".img/imagenesNuevas/hogar y decoracion/Foto-personalizada-decoraci-n-del-hogar-imprime-tus-fotos-en-lienzo-p-ster-personalizado-m-s.jpg_Q90.jpg",
+      "description": "Foto personalizada decoración del hogar, imprime tus fotos en lienzo, póster personalizado más Marco, fotos artísticas, mascotas, fotos de boda, pintura en lienzo"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa6",
-      "name": "Donkey Kong",
-      "category": "Joyería",
-      "price": "15999",
-      "url": "./img/amiibo-6.png",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "name": "Funda estampado de Superhéroes",
+      "category": "Hogar",
+      "price": "5",
+      "url": ".img/imagenesNuevas/hogar y decoracion/Funda-de-coj-n-con-estampado-de-Superh-roes-para-ni-os-funda-de-almohada-de.jpg_Q90.jpg_.webp",
+      "description": "Funda de cojín con estampado de Superhéroes para niños, funda de almohada de dibujos animados, decoración de asiento para silla de oficina, club en casa, regalo"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa7",
-      "name": "Yoshi",
-      "category": "Joyería",
-      "price": "15999",
-      "url": "./img/amiibo-7.png",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
-    },
-    {
-      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa8",
-      "name": "Toad",
-      "category": "Joyería",
-      "price": "15999",
-      "url": "./img/amiibo-8.png",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "name": "Colgante led moderno",
+      "category": "Hogar",
+      "price": "135",
+      "url": ".img/imagenesNuevas/hogar y decoracion/Colgante-led-moderno-escalera-de-villa-dorada-decoraci-n-del-hogar-candelabro-centro-comercial-Ara-a.jpg_Q90.j.webp",
+      "description": "Colgante led moderno, escalera de villa dorada, decoración del hogar, candelabro, centro comercial, Araña de cuerda de cristal"
     }
   ]
 }
