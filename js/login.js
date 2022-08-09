@@ -5,7 +5,7 @@ submit.addEventListener('click', (e) => {
     e.preventDefault();
     const email = document.getElementById('email');
     const password = document.getElementById('password');
-    if(email.value == "admin@wishbuyexress.com"){
+    if(email.value == "admin@wishbuyexpress.com"){
         if(password.value == "wish1234"){
             window.location.href = './admin.html'
         } else {
