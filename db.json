@@ -1,0 +1,196 @@
+{
+  "products": [
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag1",
+      "name": "Mario Kart 8 Deluxe",
+      "category": "Automóvil",
+      "price": "10000",
+      "url": "./img/imagenesNuevas/automovil/AIXXCO-Cargador-USB-de-3-puertos-para-coche-dispositivo-de-carga-r-pida-3-0-para.jpg_Q90.jpg_.webp",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag2",
+      "name": "The Legend of Zelda",
+      "category": "Automóvil",
+      "price": "10000",
+      "url": "./img/game-2.jpg",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag3",
+      "name": "Pokémon: Let’s Go",
+      "category": "Automóvil",
+      "price": "10000",
+      "url": "./img/game-3.jpg",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag4",
+      "name": "Super Smash Bros.",
+      "category": "Automóvil",
+      "price": "10000",
+      "url": "./img/game-4.jpg",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag5",
+      "name": "Mario Odyssey",
+      "category": "Automóvil",
+      "price": "10000",
+      "url": "./img/game-5.jpg",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag6",
+      "name": "Luigi’s Mansion™ 3",
+      "category": "Automóvil",
+      "price": "10000",
+      "url": "./img/game-6.jpg",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag7",
+      "name": "Donkey Kong",
+      "category": "Automóvil",
+      "price": "10000",
+      "url": "./img/game-7.jpg",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag8",
+      "name": "Pokémon Espada",
+      "category": "Automóvil",
+      "price": "10000",
+      "url": "./img/game-8.jpg",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac1",
+      "name": "Nintendo Switch - Gris",
+      "category": "Hogar",
+      "price": "15999",
+      "url": "./img/consolas-1.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac2",
+      "name": "Nintendo Switch - Neón",
+      "category": "Hogar",
+      "price": "15999",
+      "url": "./img/consolas-2.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac3",
+      "name": "Nintendo Switch - Smash Bros",
+      "category": "Hogar",
+      "price": "15999",
+      "url": "./img/consolas-3.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac4",
+      "name": "Nintendo Switch - Pokémon",
+      "category": "Hogar",
+      "price": "15999",
+      "url": "./img/consolas-4.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac5",
+      "name": "Nintendo Switch OLED",
+      "category": "Hogar",
+      "price": "15999",
+      "url": "./img/consolas-5.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac6",
+      "name": "Nintendo Switch OLED",
+      "category": "Hogar",
+      "price": "15999",
+      "url": "./img/consolas-6.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac7",
+      "name": "Nintendo Switch Lite - Pokémon",
+      "category": "Hogar",
+      "price": "15999",
+      "url": "./img/consolas-7.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac8",
+      "name": "Nintendo Switch Lite - Pokémon",
+      "category": "Hogar",
+      "price": "15999",
+      "url": "./img/consolas-8.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa1",
+      "name": "Mario Bros.",
+      "category": "Joyería",
+      "price": "15999",
+      "url": "./img/amiibo-1.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa2",
+      "name": "Peach",
+      "category": "Joyería",
+      "price": "15999",
+      "url": "./img/amiibo-2.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa3",
+      "name": "Browser",
+      "category": "Joyería",
+      "price": "15999",
+      "url": "./img/amiibo-3.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa4",
+      "name": "Pikachu",
+      "category": "Joyería",
+      "price": "15999",
+      "url": "./img/amiibo-4.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa5",
+      "name": "Zelda",
+      "category": "Joyería",
+      "price": "15999",
+      "url": "./img/amiibo-5.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa6",
+      "name": "Donkey Kong",
+      "category": "Joyería",
+      "price": "15999",
+      "url": "./img/amiibo-6.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa7",
+      "name": "Yoshi",
+      "category": "Joyería",
+      "price": "15999",
+      "url": "./img/amiibo-7.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa8",
+      "name": "Toad",
+      "category": "Joyería",
+      "price": "15999",
+      "url": "./img/amiibo-8.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    }
+  ]
+}
